@@ -1,4 +1,4 @@
-(p align="left")(img src="https://quotefancy.com/media/wallpaper/3840x2160/6361225-Kurt-Cobain-Quote-They-laugh-at-me-because-I-m-different-I-laugh.jpg" alt="spartan-21" /)(/p)
+<p align="left"><img src="https://quotefancy.com/media/wallpaper/3840x2160/6361225-Kurt-Cobain-Quote-They-laugh-at-me-because-I-m-different-I-laugh.jpg" alt="spartan-21" /></p>
 <h1 align="center">Hi 👋, I'm Bikash Nath</h1>
 <h3 align="center">A passionate Web developer & programmer from India.</h3>
 
