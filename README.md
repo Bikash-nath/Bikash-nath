@@ -1,6 +1,6 @@
 <p align="left"><img src="https://quotefancy.com/media/wallpaper/3840x2160/6361225-Kurt-Cobain-Quote-They-laugh-at-me-because-I-m-different-I-laugh.jpg" alt="spartan-21" /></p>
 <h1 align="center">Hi 👋, I'm Bikash Nath</h1>
-<h3 align="center">A passionate Web developer & programmer from India.</h3>
+<h3 align="center">A passionate MERN-Stack developer & programmer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spartan-21&label=Profile%20views&color=0e75b6&style=flat" alt="spartan-21" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bikash625sf@gmail.com**
 
-- ⚡ Fun fact **The people I grew up with influenced me by stopping to Dream Big.**
+- ⚡ Fun fact **The people I grew up with never influenced me to Dream Big.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
