@@ -1,4 +1,3 @@
-<p align="left"><img src="" alt="spartan-21" /></p>
 <h1 align="center">Hi 👋, I'm Bikash Nath</h1>
 <h3 align="center">A passionate MERN-Stack developer & programmer from India.</h3>
 
