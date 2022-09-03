@@ -5,7 +5,7 @@
 
 - 🎯 I’m skilled in **ReactJs, Django, Android, Java, C++ and SQL**
 - 🌱 I’m currently learning **NodeJs and MongoDB**
-- 📫 Reach me **bikash625sf@gmail.com** or contact me at **<a href="https://in.linkedin.com/in/bikash-nath21" target="blank">Linkedin</a>** or **<a href="https://twitter.com/bikas_21" target="blank">Twitter</a>**
+- 📫 Reach me at **bikash625sf@gmail.com** or contact me at **<a href="https://in.linkedin.com/in/bikash-nath21" target="blank">Linkedin</a>** or **<a href="https://twitter.com/bikas_21" target="blank">Twitter</a>**
 
 <h3 align="left">Connect with me at:</h3>
 <p align="left" style="margin-bottom="1000">
