@@ -41,6 +41,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spartan-21&show_icons=true&locale=en&layout=compact" alt="spartan-21" /></p>
+
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=spartan-21&show_icons=true&locale=en" alt="spartan-21" /></p>
 
 <p>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spartan-21" alt="profile-trophy" /></a> </p>
