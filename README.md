@@ -9,13 +9,13 @@
 
 <h3 align="left">Connect with me at:</h3>
 <p align="left" style="margin-bottom="1000">
-<a href="https://in.linkedin.com/in/bikash-nath21" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="bikash nath" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/spartan-21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="spartan-21 Leetcode" height="40" width="45" /></a>
-<a href="https://www.hackerrank.com/spartan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hackerrank.svg" alt="spartan21-HR" height="40" width="45" /></a>
-<a href="https://auth.geeksforgeeks.org/user/spartan121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="spartan121-GFG" height="40" width="45" /></a>
-<a href="https://www.codechef.com/users/spartan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="spartan21-CC" height="30" width="45" /></a>
-<a href="https://codeforces.com/profile/spartan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="spartan21-CF" height="40" width="45" /></a>
-<a href="https://www.hackerearth.com/spartan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="spartan21-HE" height="40" width="45" /></a>
+<a href="https://in.linkedin.com/in/bikash-nath21" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="bikash nath" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/spartan-21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="spartan-21 Leetcode" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/spartan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hackerrank.svg" alt="spartan21-HR" height="40" width="50" /></a>
+<a href="https://auth.geeksforgeeks.org/user/spartan121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="spartan121-GFG" height="40" width="50" /></a>
+<a href="https://www.codechef.com/users/spartan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="spartan21-CC" height="30" width="50" /></a>
+<a href="https://codeforces.com/profile/spartan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="spartan21-CF" height="40" width="50" /></a>
+<a href="https://www.hackerearth.com/spartan21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="spartan21-HE" height="40" width="50" /></a>
 </p>
 <br>
 <a href="https://stackoverflow.com/users/12662621/bikash-nath"><img src="https://stackoverflow.com/users/flair/12662621.png" width="208" height="58" alt="profile for Bikash Nath at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Bikash Nath at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
