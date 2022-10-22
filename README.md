@@ -35,14 +35,14 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="45" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Js" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
-<a href="https://www.postman.com/bikash-nath" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="40"/> </a>
+<a href="https://www.postman.com/bikash-nath" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="45" height="40"/> </a>
 <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="40"/> </a>
 </p>
 
-<p><img align="left" width="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bikash-nath&show_icons=true&locale=en&layout=compact" alt="/Bikash-nath stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bikash-nath&show_icons=true&locale=en&layout=compact" alt="/Bikash-nath stats" /></p>
 <br/>
-<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=Bikash-nath&show_icons=true&locale=en" alt="/Bikash-nath stats" /></p>
+<p>&nbsp;<img width="40%" src="https://github-readme-stats.vercel.app/api?username=Bikash-nath&show_icons=true&locale=en" alt="/Bikash-nath stats" /></p>
 
 <p>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bikash-nath" alt="Profile Trophy" /></a> </p>
