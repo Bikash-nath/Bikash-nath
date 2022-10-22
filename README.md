@@ -40,8 +40,8 @@
 <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spartan-21&show_icons=true&locale=en&layout=compact" alt="spartan-21" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bikash-nath&show_icons=true&locale=en&layout=compact" alt="/Bikash-nath stats" /></p>
 <br/>
-<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=spartan-21&show_icons=true&locale=en" alt="spartan-21" /></p>
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=Bikash-nath&show_icons=true&locale=en" alt="/Bikash-nath stats" /></p>
 
-<p>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spartan-21" alt="profile-trophy" /></a> </p>
+<p>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bikash-nath1" alt="Profile Trophy" /></a> </p>
