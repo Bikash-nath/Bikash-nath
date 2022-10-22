@@ -43,6 +43,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bikash-nath&show_icons=true&locale=en&layout=compact" alt="/Bikash-nath stats" /></p>
 <br/>
-<p>&nbsp;<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Bikash-nath&show_icons=true&locale=en" alt="/Bikash-nath stats" /></p>
+<p>&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bikash-nath&show_icons=true&locale=en" alt="/Bikash-nath stats" /></p>
 
 <p>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bikash-nath" alt="Profile Trophy" /></a> </p>
